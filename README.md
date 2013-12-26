@@ -9,5 +9,7 @@ Looking to continue adding modules to this list. Please contribute.
 
 ## Modules
 
+* [domy-lement](https://github.com/scottcorgan/domy-lement)
 * [domy-events](https://github.com/scottcorgan/domy-events)
 * [domy-insert](https://github.com/scottcorgan/domy-insert)
+* [domy-children](https://github.com/scottcorgan/domy-children)
