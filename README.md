@@ -1,4 +1,4 @@
-dove
+domy
 ====
 
 A collection of small modules that make the DOM more peaceful.
@@ -9,4 +9,4 @@ Looking to continue adding modules to this list. Please contribute.
 
 ## Modules
 
-* [dove-events](https://github.com/scottcorgan/dove-events)
+* [domy-events](https://github.com/scottcorgan/domy-events)
