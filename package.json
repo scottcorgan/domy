@@ -1,6 +1,6 @@
 {
   "name": "domy",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A collection of small modules that make the DOM more peaceful",
   "main": "index.js",
   "scripts": {
