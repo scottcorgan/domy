@@ -10,6 +10,7 @@ Looking to continue adding modules to this list. Please contribute.
 ## Modules
 
 * [domy-element](https://github.com/scottcorgan/domy-element)
+* [domy-router](https://github.com/scottcorgan/domy-router)
 * [domy-bind](https://github.com/scottcorgan/domy-bind)
 * [domy-events](https://github.com/scottcorgan/domy-events)
 * [domy-insert](https://github.com/scottcorgan/domy-insert)
